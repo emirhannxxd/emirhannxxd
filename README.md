@@ -22,3 +22,7 @@ Developer
 [![](https://visitcount.itsvg.in/api?id=emirhann404&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=emirhann404&label=Profile%20Views&color=0&icon=2&pretty=true" />
+</a>
